@@ -25,8 +25,8 @@ This guide covers multiple ways to deploy your Red Hat certification cheat sheet
 
 ```bash
 cd redhat-cheatsheet-web
-npm install
-npm dev
+pnpm install
+pnpm dev
 ```
 
 Visit `http://localhost:3000`
